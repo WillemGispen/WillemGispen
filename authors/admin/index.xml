@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willem Gispen</title>
+    <link>https://willemgispen.github.io/authors/admin/</link>
+      <atom:link href="https://willemgispen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Willem Gispen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://willemgispen.github.io/images/custom_icon_hucfa9225456de843ec2797ca0e6f6b2d1_10570_512x512_fill_lanczos_center_2.png</url>
+      <title>Willem Gispen</title>
+      <link>https://willemgispen.github.io/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
