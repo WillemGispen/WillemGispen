@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ariel Barr | Willem Gispen</title>
+    <link>https://willemgispen.github.io/authors/ariel-barr/</link>
+      <atom:link href="https://willemgispen.github.io/authors/ariel-barr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ariel Barr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://willemgispen.github.io/images/custom_icon_hucfa9225456de843ec2797ca0e6f6b2d1_10570_512x512_fill_lanczos_center_2.png</url>
+      <title>Ariel Barr</title>
+      <link>https://willemgispen.github.io/authors/ariel-barr/</link>
+    </image>
+    
+    <item>
+      <title>Quantum ground states from reinforcement learning</title>
+      <link>https://willemgispen.github.io/publication/barr-quantum-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/barr-quantum-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
