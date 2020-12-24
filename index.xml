@@ -5,12 +5,20 @@
     <link>https://willemgispen.github.io/</link>
       <atom:link href="https://willemgispen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Willem Gispen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://willemgispen.github.io/images/custom_icon_hucfa9225456de843ec2797ca0e6f6b2d1_10570_512x512_fill_lanczos_center_2.png</url>
       <title>Willem Gispen</title>
       <link>https://willemgispen.github.io/</link>
     </image>
+    
+    <item>
+      <title>Ground states of quantum many body lattice models via reinforcement learning</title>
+      <link>https://willemgispen.github.io/publication/gispen-ground-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-ground-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum ground states from reinforcement learning</title>
@@ -25,14 +33,6 @@
       <link>https://willemgispen.github.io/publication/muench-self-consistent-2019/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://willemgispen.github.io/publication/muench-self-consistent-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kramers-Wannier and Jordan-Wigner dualities in the transfer matrix approach to the two-dimensional Ising model</title>
-      <link>https://willemgispen.github.io/publication/gispen-kramers-wannier-2018/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://willemgispen.github.io/publication/gispen-kramers-wannier-2018/</guid>
       <description></description>
     </item>
     

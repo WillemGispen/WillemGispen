@@ -5,7 +5,7 @@
     <link>https://willemgispen.github.io/authors/</link>
       <atom:link href="https://willemgispen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://willemgispen.github.io/images/custom_icon_hucfa9225456de843ec2797ca0e6f6b2d1_10570_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Ariel Barr</title>
-      <link>https://willemgispen.github.io/authors/ariel-barr/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://willemgispen.github.io/authors/ariel-barr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Austen Lamacraft</title>
       <link>https://willemgispen.github.io/authors/austen-lamacraft/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://willemgispen.github.io/authors/austen-lamacraft/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Willem Gispen</title>
       <link>https://willemgispen.github.io/authors/willem-gispen/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://willemgispen.github.io/authors/willem-gispen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ariel Barr</title>
+      <link>https://willemgispen.github.io/authors/ariel-barr/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/authors/ariel-barr/</guid>
       <description></description>
     </item>
     
@@ -49,14 +49,6 @@
       <link>https://willemgispen.github.io/authors/barbara-wagner/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://willemgispen.github.io/authors/barbara-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Mueger</title>
-      <link>https://willemgispen.github.io/authors/michael-mueger/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://willemgispen.github.io/authors/michael-mueger/</guid>
       <description></description>
     </item>
     
