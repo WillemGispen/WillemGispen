@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content=" Finding the ground state of a quantum mechanical system can be formulated as an optimal control problem. In this formulation, the drift of the optimally controlled process is chosen to match the distribution of paths in the Feynman–Kac (FK) representation of the solution of the imaginary time Schrödinger equation. This provides a variational principle that can be used for reinforcement learning of a neural representation of the drift. Our approach is a drop-in replacement for path integral Monte Carlo, learning an optimal importance sampler for the FK trajectories. We demonstrate the applicability of our approach to several problems of one-, two-, and many-particle physics.">
+  <meta name="description" content="We introduce reinforcement learning (RL) formulations of the problem of finding the ground state of a many-body quantum mechanical model defined on a lattice. We show that stoquastic Hamiltonians -- those without a sign problem -- have a natural decomposition into stochastic dynamics and a potential representing a reward function. The mapping to RL is developed for both continuous and discrete time, based on a generalized Feynman--Kac formula in the former case and a stochastic representation of the Schr\&#34;odinger equation in the latter. We discuss the application of this mapping to the neural representation of quantum states, spelling out the advantages over approaches based on direct representation of the wavefunction of the system.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://willemgispen.github.io/publication/barr-quantum-2020/">
+  <link rel="alternate" hreflang="en-us" href="https://willemgispen.github.io/publication/gispen-2022-ground/">
 
   
 
@@ -218,7 +218,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://willemgispen.github.io/publication/barr-quantum-2020/">
+  <link rel="canonical" href="https://willemgispen.github.io/publication/gispen-2022-ground/">
 
   
   
@@ -232,15 +232,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Willem Gispen">
-  <meta property="og:url" content="https://willemgispen.github.io/publication/barr-quantum-2020/">
-  <meta property="og:title" content="Quantum ground states from reinforcement learning | Willem Gispen">
-  <meta property="og:description" content=" Finding the ground state of a quantum mechanical system can be formulated as an optimal control problem. In this formulation, the drift of the optimally controlled process is chosen to match the distribution of paths in the Feynman–Kac (FK) representation of the solution of the imaginary time Schrödinger equation. This provides a variational principle that can be used for reinforcement learning of a neural representation of the drift. Our approach is a drop-in replacement for path integral Monte Carlo, learning an optimal importance sampler for the FK trajectories. We demonstrate the applicability of our approach to several problems of one-, two-, and many-particle physics."><meta property="og:image" content="https://willemgispen.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://willemgispen.github.io/publication/gispen-2022-ground/">
+  <meta property="og:title" content="Ground states of quantum many body lattice models via reinforcement learning | Willem Gispen">
+  <meta property="og:description" content="We introduce reinforcement learning (RL) formulations of the problem of finding the ground state of a many-body quantum mechanical model defined on a lattice. We show that stoquastic Hamiltonians -- those without a sign problem -- have a natural decomposition into stochastic dynamics and a potential representing a reward function. The mapping to RL is developed for both continuous and discrete time, based on a generalized Feynman--Kac formula in the former case and a stochastic representation of the Schr\&#34;odinger equation in the latter. We discuss the application of this mapping to the neural representation of quantum states, spelling out the advantages over approaches based on direct representation of the wavefunction of the system."><meta property="og:image" content="https://willemgispen.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://willemgispen.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-09-29T15:01:13&#43;00:00">
+      <meta property="article:published_time" content="2022-08-24T16:39:49&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-09-29T17:01:13&#43;02:00">
+    <meta property="article:modified_time" content="2020-12-24T17:39:49&#43;01:00">
   
 
   
@@ -264,16 +264,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://willemgispen.github.io/publication/barr-quantum-2020/"
+    "@id": "https://willemgispen.github.io/publication/gispen-2022-ground/"
   },
-  "headline": "Quantum ground states from reinforcement learning",
+  "headline": "Ground states of quantum many body lattice models via reinforcement learning",
   
-  "datePublished": "2020-09-29T15:01:13Z",
-  "dateModified": "2020-09-29T17:01:13+02:00",
+  "datePublished": "2022-08-24T16:39:49Z",
+  "dateModified": "2020-12-24T17:39:49+01:00",
   
   "author": {
     "@type": "Person",
-    "name": "Ariel Barr"
+    "name": "Willem Gispen"
   },
   
   "publisher": {
@@ -284,7 +284,7 @@
       "url": "img/https://willemgispen.github.io/"
     }
   },
-  "description": " Finding the ground state of a quantum mechanical system can be formulated as an optimal control problem. In this formulation, the drift of the optimally controlled process is chosen to match the distribution of paths in the Feynman–Kac (FK) representation of the solution of the imaginary time Schrödinger equation. This provides a variational principle that can be used for reinforcement learning of a neural representation of the drift. Our approach is a drop-in replacement for path integral Monte Carlo, learning an optimal importance sampler for the FK trajectories. We demonstrate the applicability of our approach to several problems of one-, two-, and many-particle physics."
+  "description": "We introduce reinforcement learning (RL) formulations of the problem of finding the ground state of a many-body quantum mechanical model defined on a lattice. We show that stoquastic Hamiltonians -- those without a sign problem -- have a natural decomposition into stochastic dynamics and a potential representing a reward function. The mapping to RL is developed for both continuous and discrete time, based on a generalized Feynman--Kac formula in the former case and a stochastic representation of the Schr\\\"odinger equation in the latter. We discuss the application of this mapping to the neural representation of quantum states, spelling out the advantages over approaches based on direct representation of the wavefunction of the system."
 }
 </script>
 
@@ -302,7 +302,7 @@
 
 
 
-  <title>Quantum ground states from reinforcement learning | Willem Gispen</title>
+  <title>Ground states of quantum many body lattice models via reinforcement learning | Willem Gispen</title>
 
 </head>
 
@@ -411,7 +411,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Quantum ground states from reinforcement learning</h1>
+  <h1>Ground states of quantum many body lattice models via reinforcement learning</h1>
 
   
 
@@ -431,7 +431,7 @@
 
 
   
-  <span><a href="/authors/ariel-barr/">Ariel Barr</a></span>, <span><a href="/authors/willem-gispen/">Willem Gispen</a></span>, <span><a href="/authors/austen-lamacraft/">Austen Lamacraft</a></span>
+  <span><a href="/authors/willem-gispen/">Willem Gispen</a></span>, <span><a href="/authors/austen-lamacraft/">Austen Lamacraft</a></span>
 
   </div>
   
@@ -443,7 +443,7 @@
     
       
     
-    July 2020
+    August 2021
   </span>
   
 
@@ -493,14 +493,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://proceedings.mlr.press/v107/barr20a.html" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://proceedings.mlr.press/v145/gispen22a/gispen22a.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/barr-quantum-2020/cite.bib">
+        data-filename="/publication/gispen-2022-ground/cite.bib">
   Cite
 </button>
 
@@ -517,22 +517,6 @@
 
 
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.willemgispen.nl/MPhil_thesis.pdf" target="_blank" rel="noopener">
-    
-    Thesis
-  </a>
-
 
 </div>
 
@@ -546,7 +530,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Finding the ground state of a quantum mechanical system can be formulated as an optimal control problem. In this formulation, the drift of the optimally controlled process is chosen to match the distribution of paths in the Feynman–Kac (FK) representation of the solution of the imaginary time Schrödinger equation. This provides a variational principle that can be used for reinforcement learning of a neural representation of the drift. Our approach is a drop-in replacement for path integral Monte Carlo, learning an optimal importance sampler for the FK trajectories. We demonstrate the applicability of our approach to several problems of one-, two-, and many-particle physics.</p>
+    <p class="pub-abstract">We introduce reinforcement learning (RL) formulations of the problem of finding the ground state of a many-body quantum mechanical model defined on a lattice. We show that stoquastic Hamiltonians &ndash; those without a sign problem &ndash; have a natural decomposition into stochastic dynamics and a potential representing a reward function. The mapping to RL is developed for both continuous and discrete time, based on a generalized Feynman&ndash;Kac formula in the former case and a stochastic representation of the Schr&quot;odinger equation in the latter. We discuss the application of this mapping to the neural representation of quantum states, spelling out the advantages over approaches based on direct representation of the wavefunction of the system.</p>
     
 
     
@@ -576,7 +560,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>PMLR</em></div>
+          <div class="col-12 col-md-9">PMLR</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -607,7 +591,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://willemgispen.github.io/publication/barr-quantum-2020/&amp;text=Quantum%20ground%20states%20from%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://willemgispen.github.io/publication/gispen-2022-ground/&amp;text=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -620,7 +604,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://willemgispen.github.io/publication/barr-quantum-2020/&amp;t=Quantum%20ground%20states%20from%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://willemgispen.github.io/publication/gispen-2022-ground/&amp;t=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -633,7 +617,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Quantum%20ground%20states%20from%20reinforcement%20learning&amp;body=https://willemgispen.github.io/publication/barr-quantum-2020/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning&amp;body=https://willemgispen.github.io/publication/gispen-2022-ground/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -646,7 +630,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://willemgispen.github.io/publication/barr-quantum-2020/&amp;title=Quantum%20ground%20states%20from%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://willemgispen.github.io/publication/gispen-2022-ground/&amp;title=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -659,7 +643,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Quantum%20ground%20states%20from%20reinforcement%20learning%20https://willemgispen.github.io/publication/barr-quantum-2020/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning%20https://willemgispen.github.io/publication/gispen-2022-ground/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -672,7 +656,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://willemgispen.github.io/publication/barr-quantum-2020/&amp;title=Quantum%20ground%20states%20from%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://willemgispen.github.io/publication/gispen-2022-ground/&amp;title=Ground%20states%20of%20quantum%20many%20body%20lattice%20models%20via%20reinforcement%20learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -710,7 +694,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/ariel-barr/"></a></h5>
+      <h5 class="card-title"><a href="/authors/willem-gispen/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">

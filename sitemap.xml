@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://willemgispen.github.io/tags/condensed-matter-disordered-systems-and-neural-networks/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/tags/quantum-physics/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://willemgispen.github.io/publication_types/2/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/authors/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/publication/gispen-2022-kinetic/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/authors/marjolein-dijkstra/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/publication_types/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/publication/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/authors/willem-gispen/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/</loc>
+    <lastmod>2022-11-07T13:33:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/publication_types/1/</loc>
     <lastmod>2020-12-24T17:39:49+01:00</lastmod>
   </url>
   
@@ -23,43 +53,8 @@
   </url>
   
   <url>
-    <loc>https://willemgispen.github.io/authors/</loc>
+    <loc>https://willemgispen.github.io/publication/gispen-2022-ground/</loc>
     <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/publication/gispen-ground-2020/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/publication_types/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/publication/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/tags/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/authors/willem-gispen/</loc>
-    <lastmod>2020-12-24T17:39:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://willemgispen.github.io/publication_types/1/</loc>
-    <lastmod>2020-09-29T17:01:13+02:00</lastmod>
   </url>
   
   <url>
@@ -101,6 +96,10 @@
   
   <url>
     <loc>https://willemgispen.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://willemgispen.github.io/tags/</loc>
   </url>
   
 </urlset>
