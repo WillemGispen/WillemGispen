@@ -5,7 +5,7 @@
     <link>https://willemgispen.github.io/publication_types/2/</link>
       <atom:link href="https://willemgispen.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://willemgispen.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Variational umbrella seeding for calculating nucleation barriers</title>
+      <link>https://willemgispen.github.io/publication/gispen-variational-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-variational-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding the differences: Classical nucleation perspective on homogeneous melting and freezing of hard spheres</title>
+      <link>https://willemgispen.github.io/publication/gispen-finding-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-finding-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brute-force nucleation rates of hard spheres compared with rare-event methods and classical nucleation theory</title>
+      <link>https://willemgispen.github.io/publication/gispen-brute-force-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-brute-force-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystal Polymorph Selection Mechanism of Hard Spheres Hidden in the Fluid</title>
+      <link>https://willemgispen.github.io/publication/gispen-crystal-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-crystal-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kinetic Phase Diagram for Nucleation and Growth of Competing Crystal Polymorphs in Charged Colloids</title>
       <link>https://willemgispen.github.io/publication/gispen-2022-kinetic/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://willemgispen.github.io/publication/gispen-2022-kinetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic Phase Diagram for Nucleation and Growth of Competing Crystal Polymorphs in Charged Colloids</title>
+      <link>https://willemgispen.github.io/publication/gispen-kinetic-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://willemgispen.github.io/publication/gispen-kinetic-2022/</guid>
       <description></description>
     </item>
     
